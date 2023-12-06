@@ -1,0 +1,13 @@
+a[href]{
+    color: firebrick;
+  font-family: "red rose", cursive ;
+}
+p{
+    color: aquamarine;
+}
+*{
+    background-color: honeydew;
+}
+#li{
+    color: rgb(57, 88, 114);
+}

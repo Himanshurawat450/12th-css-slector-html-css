@@ -1,0 +1,14 @@
+button{
+    height: 50px;
+    width: 150px;
+    background-color: rgb(96, 96, 205);
+    color: azure;
+    border: none;
+    border-radius: 20px;
+    font-family: "red rose",cursive;
+    font-size: 20px;
+}
+button:hover{
+    box-shadow: 10px 5px 5px grey;
+    cursor: pointer;
+}
